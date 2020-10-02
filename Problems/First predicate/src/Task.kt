@@ -1,0 +1,1 @@
+fun isEven(a: Int): Boolean = a.rem(2) == 0
